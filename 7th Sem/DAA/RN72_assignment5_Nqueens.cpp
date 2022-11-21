@@ -1,12 +1,4 @@
-"""
-Name: Anuj Mahendra Mutha
-Class:BE-4 Computer Engineering
-Batch : R4
-Lab Assignment No: 05 
-Title: Design n-Queens matrix having first Queen placed. Use backtracking to place remaining 
-Queens to generate the final n-queen‘s matrix.
 
-"""
 
 #include <iostream>
 using namespace std;
