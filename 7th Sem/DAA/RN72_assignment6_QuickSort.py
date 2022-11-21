@@ -1,11 +1,4 @@
-"""
-Name: Anuj Mahendra Mutha
-Class:BE-4 Computer Engineering
-Batch : R4
-Lab Assignment No: 06 
-Title: Write a program for analysis of quick sort by using deterministic and randomized variant.
-.
-"""
+
 #Deterministic 
 def partition(array, low, high):
     pivot = array[high]
